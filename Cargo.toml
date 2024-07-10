@@ -1,0 +1,7 @@
+[package]
+name = "quadratic_showoff"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+quadratic_residues = "0.1.4"
